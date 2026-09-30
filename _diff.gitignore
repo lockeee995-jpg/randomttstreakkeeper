@@ -1,0 +1,10 @@
+--- .gitignore (原始)
+node_modules/
+.next/
+dist/
+build/
+*.log
+
+
++++ .gitignore (修改后)
+(empty)
